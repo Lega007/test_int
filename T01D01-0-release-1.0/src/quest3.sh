@@ -2,3 +2,4 @@
 внутри папки door_managment_files  создаем три папки: door_configuration, door_map, door_logs командой mkdir
 командой mv перемещаем файлы conf, map и лог в нужные папки
 
+mv *.cfg direct
